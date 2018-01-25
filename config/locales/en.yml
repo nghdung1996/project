@@ -32,7 +32,7 @@
 en:
   static_pages:
     about: 
-      About: "About"
+      about: "About"
       The: "The "
       text: "Ruby on Rails Tutorial"
       text2: " Is A "
@@ -44,8 +44,7 @@ en:
       contact_the_ruby_on_rails_tutorial_about_the_sample_app_at_the: "Contact the Ruby on Rails Tutorial about the sample app at the " 
     help:
       help: "Help"
-      text: "Ruby On Rails Tutorial"
-      text2: " Book"
+      text: "Ruby On Rails Tutorial Book"
     home:
       text: "Sample Application."
       text1: "Home"
