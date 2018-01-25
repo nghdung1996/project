@@ -47,7 +47,7 @@ vi:
   create_my_account: "Tạo tài khoản"
   welcome_to_the_sample_app: "Chào mừng đến với Ứng dụng mẫu!"
   sign_up_now: Đăng kí ngay!
-  new_user: "Người dùng mới?"
+  new_user: "Người dùng mới? "
   users: "Người dùng"
   account: "Tài khoản"
   profile: "Hồ sơ"
@@ -77,3 +77,20 @@ vi:
   sign_up: "Đăng kí"
   failed_user: "Người dùng không tồn tại"
   age: "Tuổi: "
+  the_form_contains: "Biểu mẫu có chứa "
+  error: "lỗi"
+  remember_me: "Nhớ tài khoản"
+  edit_user: "Sửa người dùng"
+  helpers:
+    submit:
+      create: "Tạo người dùng"
+      update: "Cập nhật người dùng"
+  profile_updated: "Hồ sơ cá nhân đã cập nhật"
+  all_users: "Tất cả người dùng"
+  are_you_sure: "Bạn chắc chứ?"
+  delete: "Xóa"
+  user_deleted: "Đã xóa người dùng này"
+  will_paginate:
+    previous_label: "&#8592; Trước"
+    next_label: "Sau &#8594;"
+    page_gap: "&hellip;"

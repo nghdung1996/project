@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
 git_source(:github) do |repo_name|
  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
@@ -35,10 +35,15 @@ group :development, :test do
  gem "rails_best_practices"
  gem "reek"
  gem "railroady"
+ gem "will_paginate", "3.1.6"
+ gem "bootstrap-will_paginate", "1.0.0"
  gem "autoprefixer-rails"
+ gem "faker", "1.7.3"
  gem "rails-controller-testing"
  gem "bcrypt", "3.1.11"
  gem "config"
+ gem "jquery-rails"
+ gem "jquery-turbolinks"
 end
 
 group :development do
@@ -58,3 +63,4 @@ group :test do
 end
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+

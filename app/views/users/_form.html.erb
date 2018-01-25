@@ -1,0 +1,20 @@
+<%= form_for user do |f| %>
+  <%= render "shared/error_messages", user: user %>
+
+  <%= f.label t :name %>
+  <%= f.text_field :name, class: "form-control" %>
+
+  <%= f.label t :email %>
+  <%= f.email_field :email, class: "form-control" %>
+
+  <%= f.label t :age %>
+  <%= f.number_field :age, class: "form-control" %>
+
+  <%= f.label t :password %>
+  <%= f.password_field :password, class: "form-control" %>
+
+  <%= f.label t :password_confirmation %>
+  <%= f.password_field :password_confirmation, class: "form-control" %>
+
+  <%= f.submit class: "btn btn-primary" %>
+<% end %>
