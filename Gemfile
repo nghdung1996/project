@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
 git_source(:github) do |repo_name|
  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
@@ -39,6 +39,8 @@ group :development, :test do
  gem "rails-controller-testing"
  gem "bcrypt", "3.1.11"
  gem "config"
+ gem "jquery-rails"
+ gem "jquery-turbolinks"
 end
 
 group :development do
