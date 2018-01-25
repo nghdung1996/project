@@ -37,6 +37,8 @@ group :development, :test do
  gem "railroady"
  gem "autoprefixer-rails"
  gem "rails-controller-testing"
+ gem "bcrypt", "3.1.11"
+ gem "config"
 end
 
 group :development do
