@@ -20,7 +20,7 @@ group :development, :test do
  gem "rspec"
  gem "rspec-rails"
  gem "rspec-collection_matchers"
- gem "factory_girl_rails"
+ gem "factory_bot_rails"
  gem "better_errors"
  gem "guard-rspec", require: false
  gem "database_cleaner"
@@ -49,6 +49,8 @@ group :test do
  gem "simplecov-rcov", require: false
  gem "simplecov-json"
  gem "shoulda-matchers"
+ gem "minitest", group: :test
+ gem "minitest-reporters", group: :test
 end
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
