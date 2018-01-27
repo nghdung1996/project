@@ -2,12 +2,12 @@ vi:
   static_pages:
     about:
       about: "Về"
-      The: ""
+      the: ""
       text: "Hướng dẫn Ruby on Rails"
       text2: " là "
       book: "sách"
       and: " và là "
-      screencast series: "series screencast"
+      screencast_series: "series screencast"
       to_teach_web_development_with: " để học lập trình web với "
       this_is_the_sample_application_for_the_tutorial: "Đây là ứng dụng mẫu cho hướng dẫn."
     contact:
@@ -18,8 +18,7 @@ vi:
       help: "Giúp đỡ"
       get_help_on_the_ruby_on_rails_tutorial_at_the: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
       rails_tutorial_help_section: "Phần trợ giúp hướng dẫn của Rails"
-      text2: " Hướng dẫn về Ruby on Rails"
-      text: "Sách"
+      text: "Sách Hướng dẫn Ruby on Rails"
       to_get_help_on_this_sample_app_see_the: "Để được trợ giúp về ứng dụng mẫu này, hãy xem phần"
     home:
       text: "về Ứng dụng mẫu."
