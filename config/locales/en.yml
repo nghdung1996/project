@@ -54,3 +54,9 @@ en:
       title: "Ruby on Rails Tutorial Sample App"
       en: "English"
       vi: "Vietnamese"
+  users:
+    new:
+      sign_up: "Sign up"
+      this_will_be_a_signup_page_for_new_users: "This will be a signup page for new users."
+  log_in: "Log in"
+  sign_up_now: "Sign up now!"
