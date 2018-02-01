@@ -33,12 +33,14 @@ en:
   static_pages:
     about: 
       about: "About"
-      The: "The "
+      the: "The "
       text: "Ruby on Rails Tutorial"
-      text2: " Is A "
+      text2: " is a "
       book: " Book"
+      screencast_series: "Series Screencast"
       and: " And"
-      this_is_the_sample_application_for_the_tutorial: "This Is The Sample Application For The Tutorial."
+      this_is_the_sample_application_for_the_tutorial: "This is the Sample Application for the tutorial."
+      to_teach_web_development_with: " to teach web development with "
     contact:
       contact: "Contact"
       contact_the_ruby_on_rails_tutorial_about_the_sample_app_at_the: "Contact the Ruby on Rails Tutorial about the sample app at the " 
@@ -48,6 +50,7 @@ en:
     home:
       text: "Sample Application."
       text1: "Home"
+      text1: "Sample App"
       this_is_the_home_page_for_the: "This Is The Home Page For The "
   layouts:
     application:
@@ -60,3 +63,4 @@ en:
       this_will_be_a_signup_page_for_new_users: "This will be a signup page for new users."
   log_in: "Log in"
   sign_up_now: "Sign up now!"
+  sample_app: "Sample App"
