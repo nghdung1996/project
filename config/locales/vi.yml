@@ -35,9 +35,45 @@ vi:
   by: "bởi"
   users:
     new:
-      sign_up: "Đăng kí"
       this_will_be_a_signup_page_for_new_users: "Đây sẽ là trang đăng ký cho người dùng mới"
   home: "Trang chủ"
   log_in: "Đăng nhập"
   sign_up_now: "Đăng kí ngay!"
   sample_app: "Ứng dụng mẫu"
+  :password: "Mật khẩu"
+  :name: "Tên đăng nhập"
+  :email: "Email"
+  :password_confirmation: "Xác nhận mật khẩu"
+  create_my_account: "Tạo tài khoản"
+  welcome_to_the_sample_app: "Chào mừng đến với Ứng dụng mẫu!"
+  sign_up_now: Đăng kí ngay!
+  new_user: "Người dùng mới?"
+  users: "Người dùng"
+  account: "Tài khoản"
+  profile: "Hồ sơ"
+  settings: "Cài đặt"
+  log_out: "Đăng xuất"
+  invalid_email_password_combination: "Email/Mật khẩu không hợp lệ"
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            name: 
+              blank: "không thể để trống"
+            email:
+              invalid: "không hợp lệ"
+              blank: "không được để trống"    
+            password: 
+              blank: "không được để trống"
+              too_short: "quá ngắn (tối thiểu là 6 ký tự)"
+            password_confirmation:
+              blank: "không được để trống"
+            age:
+              blank: "không được để trống"
+              not_a_number: "không phải là số"
+  the_form_contains: "Biểu mẫu có chứa "
+  error: "lỗi"
+  sign_up: "Đăng kí"
+  failed_user: "Người dùng không tồn tại"
+  age: "Tuổi: "
