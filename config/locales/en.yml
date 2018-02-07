@@ -78,3 +78,12 @@ en:
   failed_user: "User doesn't exist"
   sign_up: "Sign up"
   age: "Age: "
+  sign_up_now: Sign up now!
+  new_user: "New user? "
+  users: Users
+  account: "Account"
+  profile: "Profile"
+  settings: "Settings"
+  log_out: "Log out"
+  invalid_email_password_combination: "Invalid email/password combination"
+  welcome_to_the_sample_app: "Welcome to the Sample App"

@@ -47,7 +47,7 @@ vi:
   create_my_account: "Tạo tài khoản"
   welcome_to_the_sample_app: "Chào mừng đến với Ứng dụng mẫu!"
   sign_up_now: Đăng kí ngay!
-  new_user: "Người dùng mới?"
+  new_user: "Người dùng mới? "
   users: "Người dùng"
   account: "Tài khoản"
   profile: "Hồ sơ"
@@ -77,3 +77,5 @@ vi:
   sign_up: "Đăng kí"
   failed_user: "Người dùng không tồn tại"
   age: "Tuổi: "
+  the_form_contains: "Biểu mẫu có chứa "
+  error: "lỗi"
